@@ -5,8 +5,8 @@ A aplicação se trata de um observatório 3D do sistema solar com animação. O
 
 
 
-### Tecla Ação
-|  Tecla	|Ação		|
+### Movimento da câmera
+|  Tecla	|Movimento		|
 |:-------------:|---------------|
 | 8 / 2         | Dolly	        |
 | 4 / 6	        | Truck		| 
