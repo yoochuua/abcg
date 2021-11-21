@@ -1,5 +1,9 @@
 # Sistema solar
 
+### Autores
+##### Fellip da Silva Ribeiro - RA: 11201921507
+##### Verônica Agatha Gonçalves Isobe - RA: 11201920292
+
 ### Descrição
 A aplicação se trata de um observatório 3D do sistema solar com animação. O observador pode mover a câmera entre os planetas para observar melhor o sistema.
 
